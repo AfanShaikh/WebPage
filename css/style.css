@@ -73,7 +73,7 @@ a:hover {
 
 .pic {
   border-radius: 50%;
-  width: 30%;
+  width: 25%;
   border: 5px solid white;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px;
 }
@@ -81,7 +81,7 @@ a:hover {
 .name {
   border: none;
   border-radius: 20px;
-  width: 9%;
+  width: 8%;
   height: 32px;
   position: absolute;
   transform: translate(130px, -80px);
